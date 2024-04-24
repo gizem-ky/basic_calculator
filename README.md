@@ -1,16 +1,11 @@
 # calculator
 
-A new Flutter project.
+Basic Calculator on Dart.
 
-## Getting Started
+![Screenshot_1713962849](https://github.com/gizem-ky/basic_calculator/assets/76160232/80cddc92-5c2a-4c71-b937-da207091544c)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1713962937](https://github.com/gizem-ky/basic_calculator/assets/76160232/0b01dc3c-b60b-495e-9139-ca26d400b3f0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1713962940](https://github.com/gizem-ky/basic_calculator/assets/76160232/3d17aa81-8f41-4bec-a69d-734abfcdb273)
